@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="di_p5dp">0.5dp</dimen>
+    <dimen name="di_1dp">1dp</dimen>
+    <dimen name="di_2dp">2dp</dimen>
+    <dimen name="di_3dp">3dp</dimen>
+    <dimen name="di_4dp">4dp</dimen>
+    <dimen name="di_5dp">5dp</dimen>
+    <dimen name="di_6dp">6dp</dimen>
+    <dimen name="di_7dp">7dp</dimen>
+    <dimen name="di_8dp">8dp</dimen>
+    <dimen name="di_9dp">9dp</dimen>
+    <dimen name="di_10dp">10dp</dimen>
+    <dimen name="di_11dp">11dp</dimen>
+    <dimen name="di_12dp">12dp</dimen>
+    <dimen name="di_13dp">13dp</dimen>
+    <dimen name="di_14dp">14dp</dimen>
+    <dimen name="di_15dp">15dp</dimen>
+    <dimen name="di_16dp">16dp</dimen>
+    <dimen name="di_17dp">17dp</dimen>
+    <dimen name="di_18dp">18dp</dimen>
+    <dimen name="di_19dp">19dp</dimen>
+    <dimen name="di_20dp">20dp</dimen>
+    <dimen name="di_22dp">22dp</dimen>
+    <dimen name="di_25dp">25dp</dimen>
+    <dimen name="di_28dp">28dp</dimen>
+    <dimen name="di_30dp">30dp</dimen>
+    <dimen name="di_50dp">50dp</dimen>
+    <dimen name="di_80dp">80dp</dimen>
+    <dimen name="di_100dp">100dp</dimen>
+    <dimen name="di_150dp">150dp</dimen>
+    <dimen name="di_180dp">180dp</dimen>
+    <dimen name="di_200dp">200dp</dimen>
+    <dimen name="di_250dp">250dp</dimen>
+    <dimen name="di_300dp">300dp</dimen>
+    <dimen name="di_400dp">400dp</dimen>
+    <dimen name="di_500dp">500dp</dimen>
+
+    <dimen name="di_m_7dp">-7dp</dimen>
+    <dimen name="di_m_60dp">-60dp</dimen>
+
+    <dimen name="si_3sp">3sp</dimen>
+    <dimen name="si_5sp">5sp</dimen>
+    <dimen name="si_6sp">6sp</dimen>
+    <dimen name="si_8sp">8sp</dimen>
+    <dimen name="si_10sp">10sp</dimen>
+    <dimen name="si_12sp">12sp</dimen>
+    <dimen name="si_13sp">13sp</dimen>
+    <dimen name="si_15sp">15sp</dimen>
+    <dimen name="si_17sp">17sp</dimen>
+    <dimen name="si_18sp">18sp</dimen>
+    <dimen name="si_20sp">20sp</dimen>
+    <dimen name="si_22sp">22sp</dimen>
+    <dimen name="si_24sp">24sp</dimen>
+    <dimen name="si_25sp">25sp</dimen>
+    <dimen name="si_28sp">28sp</dimen>
+    <dimen name="si_30sp">30sp</dimen>
+    <dimen name="si_33sp">33sp</dimen>
+    <dimen name="si_35sp">35sp</dimen>
+    <dimen name="si_40sp">40sp</dimen>
+    <dimen name="si_45sp">45sp</dimen>
+    <dimen name="si_50sp">50sp</dimen>
+    <dimen name="si_70sp">70sp</dimen>
+    <dimen name="si_80sp">80sp</dimen>
+    <dimen name="si_85sp">85sp</dimen>
+    <dimen name="si_100sp">100sp</dimen>
+    <dimen name="si_120sp">120sp</dimen>
+    <dimen name="si_150sp">150sp</dimen>
+    <dimen name="si_180sp">180sp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+</resources>
