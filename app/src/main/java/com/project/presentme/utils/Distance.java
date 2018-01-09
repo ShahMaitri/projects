@@ -1,7 +1,8 @@
 package com.project.presentme.utils;
 
 /**
- * Created by divyang on 8/1/18.
+ * Created by maitri on 8/1/18.
+ *
  */
 
 public class Distance {

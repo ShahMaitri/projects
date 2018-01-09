@@ -13,7 +13,8 @@ import com.project.presentme.utils.Distance;
 import java.util.ArrayList;
 
 /**
- * Created by divyang on 9/1/18.
+ * Created by maitri on 9/1/18.
+ *
  */
 
 public class HistoryAdapter extends BaseAdapter {
